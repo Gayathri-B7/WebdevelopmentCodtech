@@ -83,5 +83,4 @@ function addTask() {
     taskInput.value = "";
 }
 ```
-
 This code provides a basic structure for a to-do list web application with the ability to add tasks dynamically. You can further enhance it with features like marking tasks as completed, deleting tasks, or saving tasks locally.
